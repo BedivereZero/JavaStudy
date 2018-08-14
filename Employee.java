@@ -30,4 +30,5 @@ public abstract class Employee {
     public int getNumber() {
         return number;
     }
+    public abstract double computepay();
 }
